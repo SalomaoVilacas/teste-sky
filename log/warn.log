@@ -1,0 +1,77 @@
+{
+  message: 'Disconnected to the Mongo database',
+  level: 'error',
+  timestamp: '2020-10-09T02:40:25.785Z'
+}
+{
+  message: 'Disconnected to the Mongo database',
+  level: 'error',
+  timestamp: '2020-10-09T02:57:28.325Z'
+}
+{
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/Users/salomaovilaca/Documents/Pessoal/Projetos/teste-sky/app/controller/user.js',
+    '/Users/salomaovilaca/Documents/Pessoal/Projetos/teste-sky/app/route/user.js',
+    '/Users/salomaovilaca/Documents/Pessoal/Projetos/teste-sky/node_modules/consign/lib/consign.js',
+    '/Users/salomaovilaca/Documents/Pessoal/Projetos/teste-sky/node_modules/consign/index.js',
+    '/Users/salomaovilaca/Documents/Pessoal/Projetos/teste-sky/configuration/express.js',
+    '/Users/salomaovilaca/Documents/Pessoal/Projetos/teste-sky/app.js'
+  ],
+  level: 'error',
+  timestamp: '2020-10-09T03:27:11.973Z'
+}
+{
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/Users/salomaovilaca/Documents/Pessoal/Projetos/teste-sky/app/controller/user.js',
+    '/Users/salomaovilaca/Documents/Pessoal/Projetos/teste-sky/app/route/user.js',
+    '/Users/salomaovilaca/Documents/Pessoal/Projetos/teste-sky/node_modules/consign/lib/consign.js',
+    '/Users/salomaovilaca/Documents/Pessoal/Projetos/teste-sky/node_modules/consign/index.js',
+    '/Users/salomaovilaca/Documents/Pessoal/Projetos/teste-sky/configuration/express.js',
+    '/Users/salomaovilaca/Documents/Pessoal/Projetos/teste-sky/app.js'
+  ],
+  level: 'error',
+  timestamp: '2020-10-09T03:27:40.624Z'
+}
+{
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/Users/salomaovilaca/Documents/Pessoal/Projetos/teste-sky/app/controller/user.js',
+    '/Users/salomaovilaca/Documents/Pessoal/Projetos/teste-sky/app/route/user.js',
+    '/Users/salomaovilaca/Documents/Pessoal/Projetos/teste-sky/node_modules/consign/lib/consign.js',
+    '/Users/salomaovilaca/Documents/Pessoal/Projetos/teste-sky/node_modules/consign/index.js',
+    '/Users/salomaovilaca/Documents/Pessoal/Projetos/teste-sky/configuration/express.js',
+    '/Users/salomaovilaca/Documents/Pessoal/Projetos/teste-sky/app.js'
+  ],
+  level: 'error',
+  timestamp: '2020-10-09T03:27:47.024Z'
+}
+{ level: 'error', timestamp: '2020-10-09T03:30:21.664Z' }
+{ level: 'error', timestamp: '2020-10-09T03:30:42.503Z' }
+{ level: 'error', timestamp: '2020-10-09T03:30:43.497Z' }
+{ level: 'error', timestamp: '2020-10-09T03:31:02.366Z' }
+{ level: 'error', timestamp: '2020-10-09T03:33:27.932Z' }
+{ level: 'error', timestamp: '2020-10-09T03:33:43.020Z' }
+{ level: 'error', timestamp: '2020-10-09T03:47:29.534Z' }
+{ level: 'error', timestamp: '2020-10-09T03:51:43.294Z' }
+{
+  code: 'ERR_HTTP_HEADERS_SENT',
+  level: 'error',
+  timestamp: '2020-10-09T04:07:18.653Z'
+}
+{
+  message: 'Disconnected to the Mongo database',
+  level: 'error',
+  timestamp: '2020-10-09T04:07:35.526Z'
+}
+{
+  code: 'ERR_HTTP_HEADERS_SENT',
+  level: 'error',
+  timestamp: '2020-10-09T04:07:42.499Z'
+}
+{
+  message: 'Disconnected to the Mongo database',
+  level: 'error',
+  timestamp: '2020-10-09T04:21:54.331Z'
+}

@@ -1,0 +1,376 @@
+{
+  message: 'Connected to Mongo database',
+  level: 'info',
+  timestamp: '2020-10-09T03:27:46.906Z'
+}
+{
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/Users/salomaovilaca/Documents/Pessoal/Projetos/teste-sky/app/controller/user.js',
+    '/Users/salomaovilaca/Documents/Pessoal/Projetos/teste-sky/app/route/user.js',
+    '/Users/salomaovilaca/Documents/Pessoal/Projetos/teste-sky/node_modules/consign/lib/consign.js',
+    '/Users/salomaovilaca/Documents/Pessoal/Projetos/teste-sky/node_modules/consign/index.js',
+    '/Users/salomaovilaca/Documents/Pessoal/Projetos/teste-sky/configuration/express.js',
+    '/Users/salomaovilaca/Documents/Pessoal/Projetos/teste-sky/app.js'
+  ],
+  level: 'error',
+  timestamp: '2020-10-09T03:27:47.024Z'
+}
+{
+  message: 'Connected to Mongo database',
+  level: 'info',
+  timestamp: '2020-10-09T03:28:14.649Z'
+}
+{
+  message: 'Backend started successfully',
+  level: 'info',
+  timestamp: '2020-10-09T03:28:14.968Z'
+}
+{ level: 'error', timestamp: '2020-10-09T03:30:21.664Z' }
+{ level: 'error', timestamp: '2020-10-09T03:30:42.503Z' }
+{ level: 'error', timestamp: '2020-10-09T03:30:43.497Z' }
+{ level: 'error', timestamp: '2020-10-09T03:31:02.366Z' }
+{ level: 'error', timestamp: '2020-10-09T03:33:27.932Z' }
+{ level: 'error', timestamp: '2020-10-09T03:33:43.020Z' }
+{
+  message: 'Connected to Mongo database',
+  level: 'info',
+  timestamp: '2020-10-09T03:36:09.037Z'
+}
+{
+  message: 'Backend started successfully',
+  level: 'info',
+  timestamp: '2020-10-09T03:36:09.337Z'
+}
+{
+  message: 'Connected to Mongo database',
+  level: 'info',
+  timestamp: '2020-10-09T03:42:50.757Z'
+}
+{
+  message: 'Backend started successfully',
+  level: 'info',
+  timestamp: '2020-10-09T03:42:50.908Z'
+}
+{
+  message: 'Connected to Mongo database',
+  level: 'info',
+  timestamp: '2020-10-09T03:46:07.580Z'
+}
+{
+  message: 'Backend started successfully',
+  level: 'info',
+  timestamp: '2020-10-09T03:46:07.723Z'
+}
+{
+  message: 'Connected to Mongo database',
+  level: 'info',
+  timestamp: '2020-10-09T03:46:34.485Z'
+}
+{
+  message: 'Backend started successfully',
+  level: 'info',
+  timestamp: '2020-10-09T03:46:34.646Z'
+}
+{
+  message: 'Connected to Mongo database',
+  level: 'info',
+  timestamp: '2020-10-09T03:47:25.399Z'
+}
+{
+  message: 'Backend started successfully',
+  level: 'info',
+  timestamp: '2020-10-09T03:47:25.730Z'
+}
+{ level: 'error', timestamp: '2020-10-09T03:47:29.534Z' }
+{
+  message: 'Connected to Mongo database',
+  level: 'info',
+  timestamp: '2020-10-09T03:48:03.954Z'
+}
+{
+  message: 'Backend started successfully',
+  level: 'info',
+  timestamp: '2020-10-09T03:48:04.130Z'
+}
+{
+  message: 'Connected to Mongo database',
+  level: 'info',
+  timestamp: '2020-10-09T03:50:27.282Z'
+}
+{
+  message: 'Backend started successfully',
+  level: 'info',
+  timestamp: '2020-10-09T03:50:27.747Z'
+}
+{
+  message: 'Connected to Mongo database',
+  level: 'info',
+  timestamp: '2020-10-09T03:51:40.033Z'
+}
+{
+  message: 'Backend started successfully',
+  level: 'info',
+  timestamp: '2020-10-09T03:51:40.193Z'
+}
+{ level: 'error', timestamp: '2020-10-09T03:51:43.294Z' }
+{
+  message: 'Connected to Mongo database',
+  level: 'info',
+  timestamp: '2020-10-09T03:51:51.862Z'
+}
+{
+  message: 'Backend started successfully',
+  level: 'info',
+  timestamp: '2020-10-09T03:51:52.079Z'
+}
+{
+  message: 'Connected to Mongo database',
+  level: 'info',
+  timestamp: '2020-10-09T03:52:30.803Z'
+}
+{
+  message: 'Backend started successfully',
+  level: 'info',
+  timestamp: '2020-10-09T03:52:30.893Z'
+}
+{
+  message: 'Connected to Mongo database',
+  level: 'info',
+  timestamp: '2020-10-09T03:53:56.868Z'
+}
+{
+  message: 'Backend started successfully',
+  level: 'info',
+  timestamp: '2020-10-09T03:53:57.062Z'
+}
+{
+  message: 'Connected to Mongo database',
+  level: 'info',
+  timestamp: '2020-10-09T03:56:57.549Z'
+}
+{
+  message: 'Backend started successfully',
+  level: 'info',
+  timestamp: '2020-10-09T03:56:57.732Z'
+}
+{
+  message: 'Connected to Mongo database',
+  level: 'info',
+  timestamp: '2020-10-09T03:57:29.138Z'
+}
+{
+  message: 'Backend started successfully',
+  level: 'info',
+  timestamp: '2020-10-09T03:57:29.321Z'
+}
+{
+  message: 'Connected to Mongo database',
+  level: 'info',
+  timestamp: '2020-10-09T03:58:00.054Z'
+}
+{
+  message: 'Backend started successfully',
+  level: 'info',
+  timestamp: '2020-10-09T03:58:00.251Z'
+}
+{
+  message: 'Connected to Mongo database',
+  level: 'info',
+  timestamp: '2020-10-09T03:58:42.926Z'
+}
+{
+  message: 'Backend started successfully',
+  level: 'info',
+  timestamp: '2020-10-09T03:58:43.132Z'
+}
+{
+  message: 'Connected to Mongo database',
+  level: 'info',
+  timestamp: '2020-10-09T04:00:14.900Z'
+}
+{
+  message: 'Backend started successfully',
+  level: 'info',
+  timestamp: '2020-10-09T04:00:15.054Z'
+}
+{
+  message: 'Connected to Mongo database',
+  level: 'info',
+  timestamp: '2020-10-09T04:00:16.466Z'
+}
+{
+  message: 'Backend started successfully',
+  level: 'info',
+  timestamp: '2020-10-09T04:00:16.790Z'
+}
+{
+  message: 'Connected to Mongo database',
+  level: 'info',
+  timestamp: '2020-10-09T04:03:20.342Z'
+}
+{
+  message: 'Backend started successfully',
+  level: 'info',
+  timestamp: '2020-10-09T04:03:20.631Z'
+}
+{
+  message: 'Connected to Mongo database',
+  level: 'info',
+  timestamp: '2020-10-09T04:03:45.869Z'
+}
+{
+  message: 'Backend started successfully',
+  level: 'info',
+  timestamp: '2020-10-09T04:03:46.107Z'
+}
+{
+  message: 'Connected to Mongo database',
+  level: 'info',
+  timestamp: '2020-10-09T04:07:11.364Z'
+}
+{
+  message: 'Backend started successfully',
+  level: 'info',
+  timestamp: '2020-10-09T04:07:11.550Z'
+}
+{
+  code: 'ERR_HTTP_HEADERS_SENT',
+  level: 'error',
+  timestamp: '2020-10-09T04:07:18.653Z'
+}
+{
+  message: 'Disconnected to the Mongo database',
+  level: 'error',
+  timestamp: '2020-10-09T04:07:35.526Z'
+}
+{
+  message: 'Connected to Mongo database',
+  level: 'info',
+  timestamp: '2020-10-09T04:07:39.572Z'
+}
+{
+  message: 'Backend started successfully',
+  level: 'info',
+  timestamp: '2020-10-09T04:07:39.723Z'
+}
+{
+  code: 'ERR_HTTP_HEADERS_SENT',
+  level: 'error',
+  timestamp: '2020-10-09T04:07:42.499Z'
+}
+{
+  message: 'Connected to Mongo database',
+  level: 'info',
+  timestamp: '2020-10-09T04:07:47.807Z'
+}
+{
+  message: 'Backend started successfully',
+  level: 'info',
+  timestamp: '2020-10-09T04:07:47.996Z'
+}
+{
+  message: 'Connected to Mongo database',
+  level: 'info',
+  timestamp: '2020-10-09T04:08:24.382Z'
+}
+{
+  message: 'Backend started successfully',
+  level: 'info',
+  timestamp: '2020-10-09T04:08:24.479Z'
+}
+{
+  message: 'Connected to Mongo database',
+  level: 'info',
+  timestamp: '2020-10-09T04:09:43.160Z'
+}
+{
+  message: 'Backend started successfully',
+  level: 'info',
+  timestamp: '2020-10-09T04:09:43.321Z'
+}
+{
+  message: 'Connected to Mongo database',
+  level: 'info',
+  timestamp: '2020-10-09T04:09:57.833Z'
+}
+{
+  message: 'Backend started successfully',
+  level: 'info',
+  timestamp: '2020-10-09T04:09:57.923Z'
+}
+{
+  message: 'Connected to Mongo database',
+  level: 'info',
+  timestamp: '2020-10-09T04:10:38.094Z'
+}
+{
+  message: 'Backend started successfully',
+  level: 'info',
+  timestamp: '2020-10-09T04:10:38.184Z'
+}
+{
+  message: 'Connected to Mongo database',
+  level: 'info',
+  timestamp: '2020-10-09T04:15:42.582Z'
+}
+{
+  message: 'Backend started successfully',
+  level: 'info',
+  timestamp: '2020-10-09T04:15:42.725Z'
+}
+{
+  message: 'Connected to Mongo database',
+  level: 'info',
+  timestamp: '2020-10-09T04:17:03.058Z'
+}
+{
+  message: 'Backend started successfully',
+  level: 'info',
+  timestamp: '2020-10-09T04:17:03.220Z'
+}
+{
+  message: 'Connected to Mongo database',
+  level: 'info',
+  timestamp: '2020-10-09T04:17:36.365Z'
+}
+{
+  message: 'Backend started successfully',
+  level: 'info',
+  timestamp: '2020-10-09T04:17:36.527Z'
+}
+{
+  message: 'Connected to Mongo database',
+  level: 'info',
+  timestamp: '2020-10-09T04:17:43.930Z'
+}
+{
+  message: 'Backend started successfully',
+  level: 'info',
+  timestamp: '2020-10-09T04:17:44.027Z'
+}
+{
+  message: 'Connected to Mongo database',
+  level: 'info',
+  timestamp: '2020-10-09T04:18:00.375Z'
+}
+{
+  message: 'Backend started successfully',
+  level: 'info',
+  timestamp: '2020-10-09T04:18:00.484Z'
+}
+{
+  message: 'Connected to Mongo database',
+  level: 'info',
+  timestamp: '2020-10-09T04:19:41.425Z'
+}
+{
+  message: 'Backend started successfully',
+  level: 'info',
+  timestamp: '2020-10-09T04:19:41.701Z'
+}
+{
+  message: 'Disconnected to the Mongo database',
+  level: 'error',
+  timestamp: '2020-10-09T04:21:54.331Z'
+}
